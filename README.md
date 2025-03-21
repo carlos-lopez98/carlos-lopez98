@@ -8,6 +8,7 @@ I am a Junior Software Engineer looking to jump-start a long career in the tech 
 
 * 🌍  I'm based in Long Beach, California
 * ✉️  You can contact me at [cjimenez9811@gmail.com](mailto:cjimenez9811@gmail.com)
+* 🌐  My personal website: [carlos-jimenez.io](https://carlos-lopez98.github.io/portfolio)
 * 🧠  I'm learning AWS Cloud, Mobile Programming, and DSA.
 
 ### Skills
