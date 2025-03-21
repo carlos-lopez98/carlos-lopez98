@@ -20,7 +20,7 @@ I am a Junior Software Engineer looking to jump-start a long career in the tech 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Spring Boot" />
+    <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)" width="36" height="36" alt="Spring Boot" />
   </a>
 </p>
 
