@@ -6,7 +6,7 @@ Software Engineer
 
 I am a Junior Software Engineer looking to jump-start a long career in the tech industry. My current experience includes 2 years of Test Automation Engineering using Selenium and Java. My current development tech stack focuses on back-end development with Java and Spring Boot. I always strive for my best and hope to one day move into AI Development.
 
-* 🌍  I'm based in Long Beach, California
+* 🌍  I'm based out of the Los Angeles Metro Area
 * ✉️  You can contact me at [cjimenez9811@gmail.com](mailto:cjimenez9811@gmail.com)
 * 🌐  My personal website: [carlos-jimenez.io](https://carlos-lopez98.github.io/portfolio)
 * 🧠  I'm learning AWS Cloud, Mobile Programming, and DSA.
